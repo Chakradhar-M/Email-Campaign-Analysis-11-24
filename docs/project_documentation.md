@@ -41,3 +41,88 @@ To build a Power BI report that helps the marketing team:
 📌 **Tip:** Right-click or Ctrl + Click to open links in a new tab.
 
 ---
+
+### 📊 Sample Raw Data
+
+<div style="overflow-x:auto;">
+
+<table>
+  <thead>
+    <tr>
+      <th>Campaign&nbsp;name</th>
+      <th>Campaign&nbsp;type</th>
+      <th>Conversion&nbsp;target</th>
+      <th>Date&nbsp;sent</th>
+      <th>client_email</th>
+      <th>client&nbsp;segment</th>
+      <th>country</th>
+      <th>country&nbsp;latitude</th>
+      <th>country&nbsp;longitude</th>
+      <th>device</th>
+      <th>clicked</th>
+      <th>bounced</th>
+      <th>opened</th>
+      <th>unsubscribed</th>
+      <th>conversion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>After&nbsp;event&nbsp;follow&nbsp;up</td>
+      <td>Events&nbsp;and&nbsp;webinars</td>
+      <td>Download</td>
+      <td>01-07-2024</td>
+      <td>5zk9b92@gmail.com</td>
+      <td>Lead</td>
+      <td>India</td>
+      <td>20.593684</td>
+      <td>78.96288</td>
+      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>After&nbsp;event&nbsp;follow&nbsp;up</td>
+      <td>Events&nbsp;and&nbsp;webinars</td>
+      <td>Download</td>
+      <td>01-07-2024</td>
+      <td>vh3xwzwkk3@yahoo.com</td>
+      <td>Customer</td>
+      <td>Afghanistan</td>
+      <td>33.93911</td>
+      <td>67.709953</td>
+      <td></td>
+      <td>0</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>After&nbsp;event&nbsp;follow&nbsp;up</td>
+      <td>Events&nbsp;and&nbsp;webinars</td>
+      <td>Download</td>
+      <td>01-07-2024</td>
+      <td>5s00qu@yahoo.com</td>
+      <td>Customer</td>
+      <td>Argentina</td>
+      <td>-38.416097</td>
+      <td>-63.616672</td>
+      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+🔗 Check out the **Data Dictionary** here 👉 [Click Here](https://github.com/Chakradhar-M/Email-Campaign-Analysis-11-24/blob/main/dataset/data_dictionary.md)
+
+---
